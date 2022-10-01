@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋,this is me Atul tiwaree</h1>
-<h3 align="center">A passionated and all time learning guy in the field of BlockChain | Web 3.0 | Web 2.0 </h3>
+<h3 align="center">Introduction ? Nah...just</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwaree&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwaree" /> </p>
 
