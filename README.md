@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwaree" alt="atultiwaree" /></a> </p>
 
+https://www.codewars.com/users/atultiwaree/badges/small?theme=light
+
 - 🔭 I’m currently working on **ByMyLink**
 
 - 🌱 I’m currently learning **Redux**
