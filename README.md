@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwaree" alt="atultiwaree" /></a> </p>
 
-https://www.codewars.com/users/atultiwaree/badges/small?theme=light
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=atultiwaree&label=Profile%20views&color=0e75b6&style=flat](https://www.codewars.com/users/atultiwaree/badges/small?theme=light)" alt="atultiwaree" /> </p>
+
+
+
 
 - 🔭 I’m currently working on **ByMyLink**
 
