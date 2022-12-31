@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwaree" alt="atultiwaree" /></a> </p>
 
 
-<p align="right"> <img src="https://www.codewars.com/users/atultiwaree/badges/small?theme=light" alt="atultiwaree" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/atultiwaree/badges/small?theme=light" alt="atultiwaree" /> </p>
 
 
 
