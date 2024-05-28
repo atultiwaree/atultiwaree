@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://instagram.com/atul.tiwariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/atul.tiwariii" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/atultiwaree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/atultiwaree" height="30" width="40" /></a>
 <a href="/https://atulcodingstuff.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://atulcodingstuff.blogspot.com" height="30" width="40" /></a>
 </p>
 
@@ -44,5 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atultiwaree&show_icons=true&locale=en" alt="atultiwaree" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultiwaree&" alt="atultiwaree" /></p>
+
+
 
 
