@@ -1,14 +1,12 @@
 # Atul Tiwaree
 
-**Senior React Native Developer (SDE II)** · Former Interim CTO @ Ginie Digital  
-Gurugram, Haryana
+**Senior React Native Developer (SDE II)** · India
 
 ---
 
 ## About
 
-Senior React Native developer (SDE II) with 3+ years of experience building cross-platform mobile apps. Built **Fahdu** — a creator monetization platform with 15,000+ active users, Rs. 50L+ paid out, and a 4.2+ app store rating. Former Interim CTO at Ginie Digital.
-
+Senior React Native Developer (SDE II) engineering high-performance, cross-platform mobile apps from the ground up — fusing AI-powered modules with custom native bridges (Java/Kotlin) and uncompromising accessibility, while architecting scalable products and leading engineering teams that ship.
 ---
 
 ## Stack
