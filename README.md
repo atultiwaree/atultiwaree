@@ -6,7 +6,8 @@
 
 ## About
 
-Senior React Native Developer (SDE II) engineering high-performance, cross-platform mobile apps from the ground up — fusing AI-powered modules with custom native bridges (Java/Kotlin) and uncompromising accessibility, while architecting scalable products and leading engineering teams that ship.
+Senior React Native Developer (SDE II) engineering high-performance, cross-platform mobile applications from the ground up. Experienced in integrating AI-powered features, building custom native bridges with Java/Kotlin, delivering accessible user experiences, architecting scalable mobile products, and leading engineering teams to ship reliable, production-ready applications.
+
 ---
 
 ## Stack
@@ -26,8 +27,17 @@ Senior React Native Developer (SDE II) engineering high-performance, cross-platf
 **[Fahdu](https://fahdu.com)** — Creator monetization platform (paid calls, live streams, subscriptions, chat)  
 15,000+ active users · 4.2+ rating · 99.7% crash-free
 
-**ServerSetup** *(NPM)* — Node.js boilerplate CLI generator · 4.5/5 rating  
-**Ring** *(NPM)* — Clipboard manager with remote sync · featured on Medium
+**ServerSetup** *(NPM)* — Node.js boilerplate CLI generator · 4.5/5 rating
+
+**Ring** *(NPM)* — Clipboard manager with remote sync · Featured on Medium
+
+**Auto Insta Scroll** — Android automation tool for hands-free Instagram Reels scrolling with configurable speed and interaction controls.
+
+**Reel Counter** — AI-powered Instagram analytics tool for tracking Reels performance, engagement metrics, and growth insights.
+
+**AI Therapist** — Privacy-focused conversational AI offering empathetic mental wellness support, mood tracking, and guided self-reflection.
+
+**AI Astor** — AI-powered assistant for productivity, research, document analysis, and intelligent task automation.
 
 ---
 
