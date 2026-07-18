@@ -47,7 +47,7 @@ Senior React Native Developer (SDE II) engineering high-performance, cross-platf
 - 💼 [linkedin.com/in/atultiwaree](https://linkedin.com/in/atultiwaree)
 - 📷 [instagram.com/atultiwaree](https://instagram.com/atultiwaree)
 - ✍️ [Medium](https://medium.com/@atultiwaree)
-- 📄 [Resume](https://scait.in/myresume.pdf)
+- 📄 [Resume](https://atultiwaree.github.io)
 
 ---
 
